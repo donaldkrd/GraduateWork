@@ -24,7 +24,7 @@
             <Image url="@../../images/player.png" />
          </image>
       </ImageView>
-      <ImageView fx:id="enemy" fitHeight="64.0" fitWidth="46.0" layoutX="590.0" layoutY="175.0" pickOnBounds="true" preserveRatio="true">
+      <ImageView fx:id="enemy" fitHeight="31.0" fitWidth="29.0" layoutX="599.0" layoutY="195.0" pickOnBounds="true" preserveRatio="true">
          <image>
             <Image url="@../../images/player2.png" />
          </image>
